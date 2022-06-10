@@ -17,14 +17,15 @@ const Home = () => {
           responsive. Also, I have experience in REACT, JS and MERN.
         </p>
         <div>
-          <button className="text-white font-semibold border-2 rounded-md px-6 py-3 my-2 flex items-center hover:bg-pink-700 duration-300">
-            <Link
-              to="../assets/Ekram Hosen(Resume).pdf"
+          <button>
+            <a
+              className="text-white font-semibold border-2 rounded-md px-6 py-3 my-2 flex items-center hover:bg-pink-700 duration-300"
+              href="https://drive.google.com/file/d/1rGKkp5lkTlKTuJ5n3J2wKVNCeBntD_qS/view?usp=sharing"
               target="_blank"
-              download
+              rel="noreferrer"
             >
-              Download
-            </Link>
+              Resume
+            </a>
           </button>
         </div>
       </div>
