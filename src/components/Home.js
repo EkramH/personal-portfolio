@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
@@ -17,7 +18,13 @@ const Home = () => {
         </p>
         <div>
           <button className="text-white font-semibold border-2 rounded-md px-6 py-3 my-2 flex items-center hover:bg-pink-700 duration-300">
-            Resume
+            <Link
+              to="../assets/Ekram Hosen(Resume).pdf"
+              target="_blank"
+              download
+            >
+              Download
+            </Link>
           </button>
         </div>
       </div>
