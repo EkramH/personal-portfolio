@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Handy from "../assets/handy.png";
-import Phone from "../assets/phonelink.png";
-import Tooth from "../assets/toothcare.png";
+import { useNavigate } from "react-router-dom";
 
 const Projects = () => {
   const [projects, setProjects] = useState([]);
@@ -11,6 +9,8 @@ const Projects = () => {
       .then((response) => response.json())
       .then((data) => setProjects(data));
   }, []);
+
+  const navigate = useNavigate();
 
   return (
     <div
@@ -46,11 +46,12 @@ const Projects = () => {
                         Live
                       </button>
                     </a>
-                    <a href="/">
-                      <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                        Details
-                      </button>
-                    </a>
+                    <button
+                      onClick={() => navigate(`/projectdetails/${project.id}`)}
+                      className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"
+                    >
+                      Details
+                    </button>
                   </div>
                 </div>
               </div>
