@@ -32,12 +32,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://handy-b2384.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
@@ -55,12 +55,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://phone-link-ab2f7.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
@@ -79,12 +79,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://tooth-care-fd1e3.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
@@ -102,12 +102,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://tooth-care-fd1e3.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
@@ -126,12 +126,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://handy-b2384.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
@@ -149,12 +149,12 @@ const Projects = () => {
               <div className="pt-8 text-center">
                 <a href="https://phone-link-ab2f7.web.app/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                    Live
                   </button>
                 </a>
                 <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                    Details
                   </button>
                 </a>
               </div>
