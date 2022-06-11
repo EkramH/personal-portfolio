@@ -1,4 +1,5 @@
 import React from "react";
+import Typewriter from "typewriter-effect";
 
 const Home = () => {
   return (
@@ -9,7 +10,14 @@ const Home = () => {
           Ekram Hosen
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-slate-300">
-          I'm a web developer
+          I'm a
+          <Typewriter
+            options={{
+              strings: ["Web developer", "MERN Stack Developer"],
+              autoStart: true,
+              loop: true,
+            }}
+          />
         </h2>
         <p className="text-slate-300 py-4 max-w-[700px]">
           I'm a web developer specializing building website with all device
