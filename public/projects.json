@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Handy Manufacturer",
+    "liveLink": "https://handy-b2384.web.app/",
+    "codeLink": "https://github.com/EkramH/handy-client-side",
+    "img": "https://i.ibb.co/vHyGMQk/handy.png",
+    "des": "It's a Tools Manufacturer MERN-stack website. Here a user can view and purchase products. It also has a dedicated admin panel where an admin has access to control the overall website like orders processing, new admin assign, etc.",
+    "ss1": "https://i.ibb.co/xhxqmhJ/handy-dashboard.png",
+    "ss2": "https://i.ibb.co/3MNZTPJ/handy-products.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      " Daisy UI",
+      "React JS",
+      "React Router",
+      "React Hook Form",
+      "axious",
+      "React query",
+      "Firebase",
+      "Stripe",
+      "Express JS",
+      "MongoDB",
+      "JWT"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "PhoneLink",
+    "liveLink": "https://phone-link-ab2f7.web.app/",
+    "codeLink": "https://github.com/EkramH/handy-client-side",
+    "img": "https://i.ibb.co/KWT5Shv/phonelink.png",
+    "des": "It's a Warehouse React application. Here a user can view and purchase products. It also has a dedicated admin panel where an admin has access to control the overall website like orders processing, new admin assign, etc.",
+    "ss1": "https://i.ibb.co/njvtxYx/phonelink-add.png",
+    "ss2": "https://i.ibb.co/rxz6j5s/phonelink-products.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React Bootstrap",
+      "React JS",
+      "React Router",
+      "React Hook Form",
+      "Express JS",
+      "MongoDB",
+      "Firebase"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ToothCare",
+    "liveLink": "https://tooth-care-fd1e3.web.app/",
+    "codeLink": "https://github.com/EkramH/tooth-care-client",
+    "img": "https://i.ibb.co/5K5xHmx/toothcare.png",
+    "des": "Tooth Care is a Dentist website. Patient can get online appointment from this website. This website is combination of public & protected routing. Used Firebase for authentication (Email/Password & Google Sign In), future plan Facebook sign in.",
+    "ss1": "https://i.ibb.co/r3WWnnn/toothcare-3.png",
+    "ss2": "https://i.ibb.co/bPDGqDm/phonelink-2.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React Bootstrap",
+      "React JS",
+      "React Router",
+      "React Hook Form",
+      "Firebase"
+    ]
+  }
+]
